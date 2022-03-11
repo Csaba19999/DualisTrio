@@ -6,7 +6,7 @@ public class JavaGitProba {
         
         String nev1;
         String nev2 = "Hecz Klaudia";
-        String nev3;
+        String nev3 = "Ménesi Csaba";
     }
     
 }
